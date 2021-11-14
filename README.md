@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, if you are here means that I have made an impression on you either via my profile, LinkedIn page or even face to face, so thank you for looking up my profle :)
 
 <!--
 **AmbarishGK/AmbarishGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
