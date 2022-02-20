@@ -1,13 +1,31 @@
-### Hi there, if you are here means that I have made an impression on you either via my profile, LinkedIn page or even face to face, so thank you for looking up my profle :) 
+### Hi there 👋
 
-I am a software engineer who likes to spend my time solving problems or (positive spin) finding solutions. I have worked in multiple early stage startups where I learnt how to manage time and work towards deadline, that Business solution is more important, Managing teammates and clients, adapting to situation and juggling tasks etc. Also have 3 developers who I had to oversee as a product owners. I like to work as a team (pair programming/brainstorming etc) but sometimes do it alone if I am too focused.
+#### I'm a Software Engineer working in India.
 
-Little about me in points (0-0):
-- I play basketball
-- Like cycling
-- Would join trekking
-- Ready to long drive
-- Enjoy Dungeons and Dragons
+##### NOW
+
+- ✨ Crafted last [Ambarish Online](https://ambarishgk.github.io/) website;
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **SmartHub.ai**
+- ⚙️  I use: `.py`, `.js`, `.sh`, `.ps1`, `.go`, `.docker`
+- 🌍 I'm mostly active within the **IoT/Full stack Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Jobs**, **IoT**, **SaaS**, **backend development**, **design thinking**
+- 💻 Domains worked: **IoT Edge platform** , Mar-tech, Consumer IoT, Robotics
+
+
+##### HOBBIES
+
+- 🏀 Basketball
+- 🚵🏽‍♂️ Cycling
+- 🥾 Trekking
+- 🏍️ long drive
+- 🐲 Dungeons & Dragons
+- 📚 Books
+- 🎥 Movies
 
 <!--
 **AmbarishGK/AmbarishGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
