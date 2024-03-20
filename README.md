@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer working in India.
+#### I'm a Computer Engineering Grad Student in San Jose State University.
 
 ##### NOW
 
