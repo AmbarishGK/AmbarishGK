@@ -5,9 +5,8 @@ Check out my projects and repos at [Ambarish Online](https://ambarishgk.github.i
 ##### BIO
 
 - 🏢 I'm currently working at **San Jose State University Research Foundation** as a **Research Assistant**
-- ⚙️  I use:  Python, C++, JavaScript, Shell, PowerShell, Go, Docker, ROS2 (`.py`, `.cpp`,`.js`, `.sh`, `.ps1`, `.go`, `.docker`)
-- 🌍 I'm mostly active within the **IoT/Full stack Community**
-- 🌱 Learning all about **Open Source**
+- ⚙️ I use:  Python, C++, JavaScript, Shell, PowerShell, Go, Docker, ROS2 (`.py`, `.cpp`,`.js`, `.sh`, `.ps1`, `.go`, `.docker`)
+- 🌍 I'm mostly active within the **Software Development and Research**
 - 💬 Ping me about **Jobs**, **IoT**, **SaaS**, **backend development**, **design thinking**
 - 💻 Domains worked: **Robotics**,IoT Edge platform , Mar-tech, Consumer IoT, 
 
