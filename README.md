@@ -1,5 +1,7 @@
 
-##### I'm a MS Computer Engineering Grad Student in San Jose State University working as a **Research Assistant**. A problem solver who loves exploring diverse domains from IoT and robotics to full-stack development and AI. I enjoy tackling challenges, learning new technologies, and building innovative solutions across different fields.
+### Check out my [YT Channel: Ambarish G K](https://www.youtube.com/@AmbarishGK/videos) 
+##### 
+I'm a MS Computer Engineering Grad Student in San Jose State University working as a **Research Assistant**. A problem solver who loves exploring diverse domains from IoT and robotics to full-stack development and AI. I enjoy tackling challenges, learning new technologies, and building innovative solutions across different fields.
 Check out my projects and repos at [Ambarish Online](https://ambarishgk.github.io/) website;
 
 ##### BIO
